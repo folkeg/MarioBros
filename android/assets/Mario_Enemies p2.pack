@@ -1,0 +1,54 @@
+
+mario_texture1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Star
+  rotate: false
+  xy: 2, 2
+  size: 480, 48
+  orig: 480, 48
+  offset: 0, 0
+  index: -1
+Shell
+  rotate: false
+  xy: 2, 52
+  size: 480, 48
+  orig: 480, 48
+  offset: 0, 0
+  index: -1
+Flower
+  rotate: false
+  xy: 2, 102
+  size: 480, 48
+  orig: 480, 48
+  offset: 0, 0
+  index: -1
+Fire
+  rotate: false
+  xy: 2, 152
+  size: 480, 48
+  orig: 480, 48
+  offset: 0, 0
+  index: -1
+CoinBrick
+  rotate: false
+  xy: 2, 202
+  size: 480, 48
+  orig: 480, 48
+  offset: 0, 0
+  index: -1
+Coin
+  rotate: false
+  xy: 484, 2
+  size: 480, 48
+  orig: 480, 48
+  offset: 0, 0
+  index: -1
+Big
+  rotate: false
+  xy: 484, 52
+  size: 480, 48
+  orig: 480, 48
+  offset: 0, 0
+  index: -1
